@@ -1,2 +1,3 @@
-# zlib.1.2.11-x64-windows
- zlib version 1.2.11 x64 for Windows 7 to 11.
+# zlib + lzma + zlib
+
+zlib + lzma + 7zip binaries for x64 compiled by me for Windows 7 to 11.
